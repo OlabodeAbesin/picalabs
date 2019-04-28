@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
+
 <head>
 
     <!--- basic page needs
@@ -8,6 +9,7 @@
     <title>Picalabs</title>
     <meta name="description" content="">
     <meta name="author" content="">
+    <meta name="google-site-verification" content="JyijgDIDgc3SRWc0ayfO3P3Kx950iRIXA4bbn7SVLac" />
 
     <!-- mobile specific metas
     ================================================== -->
@@ -49,17 +51,17 @@
 
             <div class="header-nav__content">
                 <h3>Picalabs Studio</h3>
-                
+
                 <ul class="header-nav__list">
-                    <li class="current"><a class="smoothscroll"  href="#home" title="home">Home</a></li>
-                    <li><a class="smoothscroll"  href="#about" title="about">About</a></li>
-                    <li><a class="smoothscroll"  href="#services" title="services">Services</a></li>
-                    <li><a class="smoothscroll"  href="#works" title="works">Works</a></li>
-                    <li><a class="smoothscroll"  href="#contact" title="contact">Contact</a></li>
+                    <li class="current"><a class="smoothscroll" href="#home" title="home">Home</a></li>
+                    <li><a class="smoothscroll" href="#about" title="about">About</a></li>
+                    <li><a class="smoothscroll" href="#services" title="services">Services</a></li>
+                    <li><a class="smoothscroll" href="#works" title="works">Works</a></li>
+                    <li><a class="smoothscroll" href="#contact" title="contact">Contact</a></li>
                 </ul>
-    
+
                 <p>Perspiciatis hic praesentium nesciunt. Et neque a dolorum <a href='#0'>voluptatem</a> porro iusto sequi veritatis libero enim. Iusto id suscipit veritatis neque reprehenderit.</p>
-    
+
                 <ul class="header-nav__social">
                     <li>
                         <a href="#0"><i class="fab fa-facebook"></i></a>
@@ -99,13 +101,13 @@
 
             <div class="row home-content__main">
                 <h1>
-                Hello there, we are <br>
-                Picalabs.
+                    Hello there, we are <br>
+                    Picalabs.
                 </h1>
 
                 <p>
-                We create stunning digital experiences <br>
-                that will help your business stand out.
+                    We create stunning digital experiences <br>
+                    that will help your business stand out.
                 </p>
             </div> <!-- end home-content__main -->
 
@@ -114,23 +116,23 @@
         <ul class="home-sidelinks">
             <li><a class="smoothscroll" href="#about">About<span>who we are</span></a></li>
             <li><a class="smoothscroll" href="#services">Services<span>what we do</span></a></li>
-            <li><a  class="smoothscroll" href="#contact">Contact<span>get in touch</span></a></li>
+            <li><a class="smoothscroll" href="#contact">Contact<span>get in touch</span></a></li>
         </ul> <!-- end home-sidelinks -->
 
         <ul class="home-social">
             <li class="home-social-title">Follow Us</li>
             <li><a href="#0">
-                <i class="fab fa-facebook"></i>
-                <span class="home-social-text">Facebook</span>
-            </a></li>
+                    <i class="fab fa-facebook"></i>
+                    <span class="home-social-text">Facebook</span>
+                </a></li>
             <li><a href="#0">
-                <i class="fab fa-twitter"></i>
-                <span class="home-social-text">Twitter</span>
-            </a></li>
+                    <i class="fab fa-twitter"></i>
+                    <span class="home-social-text">Twitter</span>
+                </a></li>
             <li><a href="#0">
-                <i class="fab fa-linkedin"></i>
-                <span class="home-social-text">LinkedIn</span>
-            </a></li>
+                    <i class="fab fa-linkedin"></i>
+                    <span class="home-social-text">LinkedIn</span>
+                </a></li>
         </ul> <!-- end home-social -->
 
         <a href="#about" class="home-scroll smoothscroll">
@@ -155,17 +157,17 @@
         <div class="row" data-aos="fade-up">
             <div class="col-full">
                 <p class="lead">
-                We provide full-cycle services in the areas of software development, web-based enterprise solutions, web application and
-                portal development.
-                
-                We combine our solid business domain experience, technical expertise, profound knowledge of latest industry trends and
-                quality-driven delivery model to offer progressive, end-to-end web solutions.
+                    We provide full-cycle services in the areas of software development, web-based enterprise solutions, web application and
+                    portal development.
+
+                    We combine our solid business domain experience, technical expertise, profound knowledge of latest industry trends and
+                    quality-driven delivery model to offer progressive, end-to-end web solutions.
                 </p>
             </div>
         </div> <!-- end about-desc -->
 
         <div class="row">
-                
+
             <div class="about-process process block-1-2 block-tab-full">
 
                 <div class="process__vline-left"></div>
@@ -176,9 +178,9 @@
                         <h4>Define</h4>
 
                         <p>
-                        We meet to discuss the project goals, vision, target market, content requirements, reference sites, and available assets
-etc.
-                        Map the architecture and build a spec. document together with you.
+                            We meet to discuss the project goals, vision, target market, content requirements, reference sites, and available assets
+                            etc.
+                            Map the architecture and build a spec. document together with you.
                         </p>
                     </div>
                 </div>
@@ -187,8 +189,8 @@ etc.
                         <h4>Design</h4>
 
                         <p>
-                        A simple visual layout of the project sections with the intent to support the Build Spec by starting to define certain
-                        layout and user experience conventions to be utilized across the project
+                            A simple visual layout of the project sections with the intent to support the Build Spec by starting to define certain
+                            layout and user experience conventions to be utilized across the project
                         </p>
                     </div>
                 </div>
@@ -197,9 +199,9 @@ etc.
                         <h4>Build</h4>
 
                         <p>
-                        Using the Build Spec, we begin the implementation step of the project development process. This may begin with setting
-                        up a server to run your application, writing the baseline code to your new site, or testing out the first new feature of
-                        your project. Our implementation is an iterative approach: you'll see our work over time.
+                            Using the Build Spec, we begin the implementation step of the project development process. This may begin with setting
+                            up a server to run your application, writing the baseline code to your new site, or testing out the first new feature of
+                            your project. Our implementation is an iterative approach: you'll see our work over time.
                         </p>
                     </div>
                 </div>
@@ -208,9 +210,9 @@ etc.
                         <h4>Launch</h4>
 
                         <p>
-                        The web presence should keep evolving over time. Like your organization, it shouldn’t become static. But, our projects
-                        together do usually have specific goals and end dates. Once all requirements are met, work is tested and verified, we'll
-                        work with you to launch the project.
+                            The web presence should keep evolving over time. Like your organization, it shouldn’t become static. But, our projects
+                            together do usually have specific goals and end dates. Once all requirements are met, work is tested and verified, we'll
+                            work with you to launch the project.
                         </p>
                     </div>
                 </div>
@@ -254,8 +256,8 @@ etc.
                 <div class="service-text">
                     <h3 class="h4">Brand Identity</h3>
                     <p>
-                    Inventing Idea is ordinary, we invent an Emotion! Your brand is beyond your product and your logo. It is the emotion
-                    that stirs up the client and raises the curiosity to know more about the product, eventually leading to purchase.
+                        Inventing Idea is ordinary, we invent an Emotion! Your brand is beyond your product and your logo. It is the emotion
+                        that stirs up the client and raises the curiosity to know more about the product, eventually leading to purchase.
                     </p>
                 </div>
             </div>
@@ -274,12 +276,12 @@ etc.
             <div class="col-block service-item" data-aos="fade-up">
                 <div class="service-icon  service-icon--web-design">
                     <i class="icon-earth"></i>
-                </div>  
+                </div>
                 <div class="service-text">
                     <h3 class="h4">Web Design & Dev.</h3>
                     <p>
-                    Single-page applications are fast replacing dynamic websites with web apps so are the technology used to built them. We build befitting company websites and develop custom web apps, software.
-                    <!-- <ul>
+                        Single-page applications are fast replacing dynamic websites with web apps so are the technology used to built them. We build befitting company websites and develop custom web apps, software.
+                        <!-- <ul>
                         <li>Javascript</li>
                         <li>Laravel</li>
                         <li>Python</li>
@@ -295,9 +297,9 @@ etc.
                 <div class="service-text">
                     <h3 class="h4">Digital Campaigns</h3>
                     <p>We
-                     understand that promotions must also forecast trends, reveal your
-                    positioning, and display your Pièce de resistance in an extremely flattering manner, while stirring desire, and
-                    top-of-the-mind recall, where none existed before.
+                        understand that promotions must also forecast trends, reveal your
+                        positioning, and display your Pièce de resistance in an extremely flattering manner, while stirring desire, and
+                        top-of-the-mind recall, where none existed before.
                     </p>
                 </div>
             </div>
@@ -309,13 +311,13 @@ etc.
                 <div class="service-text">
                     <h3 class="h4">UI/UX Design</h3>
                     <p>How it looks is important. How it works is important as well, but both pale in comparison to the feeling a user gets on
-                    using it.
-                    We ensure that technically and visually, the project is perfect, while
-                    providing a pleasurable user experience.
+                        using it.
+                        We ensure that technically and visually, the project is perfect, while
+                        providing a pleasurable user experience.
                     </p>
                 </div>
             </div>
-    
+
             <div class="col-block service-item" data-aos="fade-up">
                 <div class="service-icon service-icon--mobile-dev">
                     <i class="icon-lego-block"></i>
@@ -328,7 +330,7 @@ etc.
                             <li>iOS</li>
                             <li>UI/UX Design</li>
                         </ul>
-                    
+
                     </p>
                 </div>
             </div>
@@ -341,7 +343,7 @@ etc.
     <!-- works
     ================================================== -->
     <section id='works' class="s-works">
-                
+
         <div class="row section-header" data-aos="fade-up">
             <div class="col-full">
                 <h3 class="subhead">Featured Works</h3>
@@ -357,8 +359,7 @@ etc.
 
                         <div class="item-folio__thumb">
                             <a href="images/portfolio/Liftndrop portfolio.svg" class="thumb-link" title="Liftndrop Web and mobile" data-size="1050x700">
-                                <img src="images/portfolio/Liftndrop portfolio.svg" 
-                                     srcset="images/portfolio/Liftndrop portfolio.svg 1x, images/portfolio/Liftndrop portfolio.svg 2x" alt="">
+                                <img src="images/portfolio/Liftndrop portfolio.svg" srcset="images/portfolio/Liftndrop portfolio.svg 1x, images/portfolio/Liftndrop portfolio.svg 2x" alt="">
                             </a>
                         </div>
 
@@ -367,7 +368,7 @@ etc.
                                 LiftnDrop
                             </h3>
                             <p class="item-folio__cat">
-                                Web & Mobile Development 
+                                Web & Mobile Development
                             </p>
                         </div>
 
@@ -377,7 +378,7 @@ etc.
 
                         <div class="item-folio__caption">
                             <p>LiftnDrop is an on-demand taxi and delivery company providing quick and affordable service with the Ghanaian economy in
-                            mind</p>
+                                mind</p>
                         </div>
 
                     </div> <!-- end item-folio -->
@@ -388,8 +389,7 @@ etc.
 
                         <div class="item-folio__thumb">
                             <a href="images/portfolio/mouka-chatbot.png" class="thumb-link" title="Salad" data-size="1050x700">
-                                <img src="images/portfolio/mouka-chatbot.png" 
-                                     srcset="images/portfolio/mouka-chatbot.png 1x, images/portfolio/mouka-chatbot.png 2x" alt="">
+                                <img src="images/portfolio/mouka-chatbot.png" srcset="images/portfolio/mouka-chatbot.png 1x, images/portfolio/mouka-chatbot.png 2x" alt="">
                             </a>
                         </div>
 
@@ -408,7 +408,7 @@ etc.
 
                         <span class="item-folio__caption">
                             <p>Mouka is Nigeria's leading manufacturer of top quality Mattresses, Sheetings, Pillows, Polyurethane blocks and other foam
-                            materials for industrial use for over five decades.</p>
+                                materials for industrial use for over five decades.</p>
                         </span>
 
                     </div> <!-- end item-folio -->
@@ -419,8 +419,7 @@ etc.
 
                         <div class="item-folio__thumb">
                             <a href="images/portfolio/gallery/g-woodcraft.jpg" class="thumb-link" title="Woodcraft" data-size="1050x700">
-                                <img src="images/portfolio/woodcraft.jpg"
-                                     srcset="images/portfolio/woodcraft.jpg 1x, images/portfolio/woodcraft@2x.jpg 2x" alt="">
+                                <img src="images/portfolio/woodcraft.jpg" srcset="images/portfolio/woodcraft.jpg 1x, images/portfolio/woodcraft@2x.jpg 2x" alt="">
                             </a>
                         </div>
 
@@ -449,8 +448,7 @@ etc.
 
                         <div class="item-folio__thumb">
                             <a href="images/portfolio/gallery/g-liberty.jpg" class="thumb-link" title="Liberty" data-size="1050x700">
-                                <img src="images/portfolio/liberty.jpg"
-                                     srcset="images/portfolio/liberty.jpg 1x, images/portfolio/liberty@2x.jpg 2x" alt="">
+                                <img src="images/portfolio/liberty.jpg" srcset="images/portfolio/liberty.jpg 1x, images/portfolio/liberty@2x.jpg 2x" alt="">
                             </a>
                         </div>
 
@@ -480,8 +478,7 @@ etc.
 
                         <div class="item-folio__thumb">
                             <a href="images/portfolio/gallery/g-fuji.jpg" class="thumb-link" title="Fuji" data-size="1050x700">
-                                <img src="images/portfolio/fuji.jpg"
-                                     srcset="images/portfolio/fuji.jpg 1x, images/portfolio/fuji@2x.jpg 2x" alt="">
+                                <img src="images/portfolio/fuji.jpg" srcset="images/portfolio/fuji.jpg 1x, images/portfolio/fuji@2x.jpg 2x" alt="">
                             </a>
                         </div>
 
@@ -510,8 +507,7 @@ etc.
 
                         <div class="item-folio__thumb">
                             <a href="images/portfolio/matech_portfolio.png" class="thumb-link" title="Shutterbug" data-size="1050x700">
-                                <img src="images/portfolio/matech_portfolio.png"
-                                     srcset="images/portfolio/matech_portfolio.png 1x, images/portfolio/matech_portfolio.png 2x" alt="">
+                                <img src="images/portfolio/matech_portfolio.png" srcset="images/portfolio/matech_portfolio.png 1x, images/portfolio/matech_portfolio.png 2x" alt="">
                             </a>
                         </div>
 
@@ -530,7 +526,7 @@ etc.
 
                         <span class="item-folio__caption">
                             <p>MA TECH DIGITAL connects startups from India, Europe, the United States and Brazil with results of excellence and high
-                            performance in digital solutions.</p>
+                                performance in digital solutions.</p>
                         </span>
 
                     </div> <!-- end item-folio -->
@@ -538,7 +534,7 @@ etc.
 
             </div> <!-- end masonry -->
         </div> <!-- end masonry-wrap -->
-<!-- 
+        <!-- 
         <div class="testimonials-wrap" data-aos="fade-up">
 
             <div class="row">
@@ -595,7 +591,7 @@ etc.
     <section id="stats" class="s-stats">
 
         <div class="row stats block-1-4 block-m-1-2 block-mob-full" data-aos="fade-up">
-                
+
             <div class="col-block stats__col ">
                 <div class="stats__count">2</div>
                 <h5>Awards Received</h5>
@@ -610,7 +606,7 @@ etc.
             </div>
             <div class="col-block stats__col">
                 <div class="stats__count">10</div>
-                <h5>Happy Clients</h5> 
+                <h5>Happy Clients</h5>
             </div>
 
         </div> <!-- end stats -->
@@ -633,8 +629,8 @@ etc.
 
             <div class="col-full contact-main" data-aos="fade-up">
                 <p>
-                <a href="mailto:hello@picalabs.com" class="contact-email">hello@picalabs.com</a>
-                <span class="contact-number">+234 810 975 3383</span>
+                    <a href="mailto:hello@picalabs.com" class="contact-email">hello@picalabs.com</a>
+                    <span class="contact-number">+234 810 975 3383</span>
                 </p>
             </div> <!-- end contact-main -->
 
@@ -686,9 +682,9 @@ etc.
 
         <div class="row">
             <!-- <div class="col-full cl-copyright"> -->
-                <!-- <span>Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-<!-- Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> </span> 
+            <!-- <span>Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            <!-- Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --> </span>
             <!-- </div> -->
         </div>
 
@@ -714,9 +710,7 @@ Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --
 
             <div class="pswp__ui pswp__ui--hidden">
                 <div class="pswp__top-bar">
-                    <div class="pswp__counter"></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button> <button class="pswp__button pswp__button--share" title=
-                    "Share"></button> <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button> <button class="pswp__button pswp__button--zoom" title=
-                    "Zoom in/out"></button>
+                    <div class="pswp__counter"></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button> <button class="pswp__button pswp__button--share" title="Share"></button> <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button> <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
                     <div class="pswp__preloader">
                         <div class="pswp__preloader__icn">
                             <div class="pswp__preloader__cut">
@@ -727,8 +721,7 @@ Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --
                 </div>
                 <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
                     <div class="pswp__share-tooltip"></div>
-                </div><button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button> <button class="pswp__button pswp__button--arrow--right" title=
-                "Next (arrow right)"></button>
+                </div><button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button> <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
                 <div class="pswp__caption">
                     <div class="pswp__caption__center"></div>
                 </div>
@@ -742,7 +735,7 @@ Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --
     <!-- preloader
     ================================================== -->
     <div id="preloader">
-        <div id="loader">            
+        <div id="loader">
         </div>
     </div>
 
